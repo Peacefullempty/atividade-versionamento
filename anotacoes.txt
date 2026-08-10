@@ -1,2 +1,1 @@
-
-Versionamento é o controle de alterações em arquivos ao longo do tempo.
+Git é um sistema de controle de verrsão distrinuído.
