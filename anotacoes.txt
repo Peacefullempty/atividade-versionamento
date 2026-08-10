@@ -1,1 +1,2 @@
 
+Versionamento é o controle de alterações em arquivos ao longo do tempo.
