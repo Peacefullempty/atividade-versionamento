@@ -1,3 +1,9 @@
 Git é um sistema de controle de verrsão distrinuído.
 GitHub é um projeto de desenvolvimento usados por engenheiros de software para armazenar e 
 administrar em código aberto, individualmente ou em conjunto de usuários.
+Comandos Git:
+1. git init
+2. git add
+3. git commit
+4. git status
+5. git push
