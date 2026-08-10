@@ -1,1 +1,3 @@
 Git é um sistema de controle de verrsão distrinuído.
+GitHub é um projeto de desenvolvimento usados por engenheiros de software para armazenar e 
+administrar em código aberto, individualmente ou em conjunto de usuários.
